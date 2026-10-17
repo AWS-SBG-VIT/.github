@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08111f"/><stop offset="1" stop-color="#14283d"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#ff9900" stop-opacity=".2"/><stop offset="1" stop-color="#ff9900" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#6d8bab" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="20" fill="url(#bg)"/><rect width="1200" height="380" rx="20" fill="url(#grid)"/>
+<circle cx="1000" cy="160" r="360" fill="url(#glow)"/>
+<g stroke="#4d83aa" stroke-opacity=".5" fill="none">
+<path d="M700 70L810 180L920 80L1050 170L1140 80M700 70L730 280L870 330L1050 170L1080 300L1140 80M810 180L870 330L990 260L1050 170M920 80L990 260L1080 300"/>
+</g>
+<g fill="#ff9900"><circle cx="700" cy="70" r="4"/><circle cx="810" cy="180" r="5"/><circle cx="920" cy="80" r="4"/><circle cx="1050" cy="170" r="5"/><circle cx="1140" cy="80" r="4"/><circle cx="730" cy="280" r="4"/><circle cx="870" cy="330" r="5"/><circle cx="990" cy="260" r="4"/><circle cx="1080" cy="300" r="4"/></g>
+<rect x="62" y="58" width="7" height="260" rx="3" fill="#ff9900"/>
+<text x="94" y="91" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#ffb32c">AWS / STUDENT BUILDERS GROUP</text>
+<text x="90" y="166" font-family="Arial,sans-serif" font-size="58" font-weight="700" fill="#f6f9fc">Build what</text>
+<text x="90" y="229" font-family="Arial,sans-serif" font-size="58" font-weight="700" fill="#ff9900">comes next.</text>
+<text x="94" y="285" font-family="Arial,sans-serif" font-size="23" fill="#bbcbdd">CLOUD  •  AI  •  SOFTWARE  •  COMMUNITY</text>
+<path d="M94 316H520" stroke="#ff9900" stroke-width="2"/>
+<text x="94" y="345" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1" fill="#8fa4bb">LEARN TOGETHER. BUILD IN PUBLIC.</text>
+</svg>
